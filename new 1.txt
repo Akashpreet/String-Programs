@@ -1,0 +1,4 @@
+Difference between jre,jdk,jvm
+what is java architecture
+Is java object oriented or not 
+sts spring tool suit
